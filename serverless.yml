@@ -5,7 +5,7 @@
 service: faas-server
 # app and org for use with dashboard.serverless.com
 app: <your aws app name>
-org: <aws org name>
+org: <serverless org name>
 
 provider:
   name: aws
